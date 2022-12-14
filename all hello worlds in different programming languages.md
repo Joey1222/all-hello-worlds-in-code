@@ -45,7 +45,7 @@ $("body").append("Hello world!");
 
 ## Objective-c
 `
-#import #import none
+#import none #import none
 int main(void)
 {
 NSLog(@"Hello, world!
